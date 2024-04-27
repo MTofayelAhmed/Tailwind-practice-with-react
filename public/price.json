@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "name": "Basic",
+      "price": 9.99,
+      "features": [
+        "Access to weight room",
+        "Access to cardio equipment",
+        "Locker room facilities"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Standard",
+      "price": 19.99,
+      "features": [
+        "All features in Basic",
+        "Access to group fitness classes",
+        "Access to swimming pool"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Premium",
+      "price": 29.99,
+      "features": [
+        "All features in Standard",
+        "Personal training sessions",
+        "Access to spa and sauna"
+      ]
+    }
+  ]
+  
